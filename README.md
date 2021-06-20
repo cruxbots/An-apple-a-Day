@@ -1,6 +1,8 @@
 # An-apple-a-Day
 My machine vision Assessment for counting apples in orchard farm from given images
 
+Further details are given in the code itself check the code. Read below for Introduction and other information.
+
 #Introduction
 The main aim of this model is to count the total numbers of Apples in an particular image. But, this model does something extra, It's not only capable of counting apples but also capable to check that the apples you are gonna eat are in good condition if trained, but due to time restrictions i was not able to do this.
 It does so by outputing the binary image of the input image in which there are two classes that are APPLEs and NOT Apples. One more distinctive feauture of this model is that, unlike traditional object detection models it does semantic segmentation that is it dosen't only outputs certain paramenters related to apples but the output of this model is EACH AND EVERY PIXEL IN THE IMAGE AS EITHER CLASS APPLE OR NOT APPLE.
