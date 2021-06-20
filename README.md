@@ -22,15 +22,24 @@ I have manually sorted the images into training,testing and validation dataset (
 # Results
 
 ##Input image to the model
+
 ![Actual_image](https://user-images.githubusercontent.com/50763982/122678976-da488f80-d1e0-11eb-802b-4a4bea61e5c5.png)
+
+
 Dosen't require much explaination i guess it is the input image given to the code that was never used for training.
 
 ##How it should look like in binary
+
 ![Ground_truth](https://user-images.githubusercontent.com/50763982/122679100-72467900-d1e1-11eb-920e-5a09811ff570.png)
+
+
 This image is binary image (only black and white [you might already know that but i told u again hahahaha]) you can get them in the dataset (there are two files just browse them don't be lazy come on).
 
 ##Output image
+
 ![Result](https://user-images.githubusercontent.com/50763982/122679336-58f1fc80-d1e2-11eb-946c-ea6ee32841dd.png)
+
+
 This is the resulting image from the output (doesn't it looks cool!!! yeah it is) 
 You can just edit this code if you need localised information about the position of apples in the image.
 This is binary image but i have made it to look this cool.
